@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\gamer\desktop\console_fps\fps\fps\source.cpp(172): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\gamer\desktop\console_fps\fps\fps\source.cpp(181): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FPS.vcxproj -> C:\Users\Gamer\Desktop\Console_FPS\FPS\Debug\FPS.exe
