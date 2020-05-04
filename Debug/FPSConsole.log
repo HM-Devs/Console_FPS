@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\gamer\source\repos\fpsconsole\fpsconsole\source.cpp(172): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\gamer\source\repos\fpsconsole\fpsconsole\source.cpp(181): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FPSConsole.vcxproj -> C:\Users\Gamer\source\repos\FPSConsole\Debug\FPSConsole.exe
